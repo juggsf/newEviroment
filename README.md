@@ -9,3 +9,5 @@
 3.启动Typora：
 
 安装完成后，在应用程序菜单中找到Typora，或在终端中输入typora来启动它。
+
+https://pan.baidu.com/s/1IckUvQUBzQkfHNHXla0zkA 密码：8888
