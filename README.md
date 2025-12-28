@@ -38,4 +38,33 @@ ubuntu:
 
 
 
-### vicode
+### vscode
+
+
+
+### nvm
+
+nvm+node.js
+
+
+
+### jdk
+
+安装openjdk17
+
+```bash
+sudo apt update
+sudo apt install -y openjdk-17-jdk
+```
+
+
+
+### maven
+
+```bash
+sudo apt update
+sudo apt install -y maven
+```
+
+
+
